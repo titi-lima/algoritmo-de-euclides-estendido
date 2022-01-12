@@ -161,5 +161,6 @@ int main() {
     } else
         printf("\n%d nao divide %d, logo, nao existe solucao inteira para a e b.\n", mdc, result);
 
+    
     return 0;
 }
